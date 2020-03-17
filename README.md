@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # quakes
 
 A new Flutter application.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# earthquake
+A simple flutter app to demonstrate the use of APIs and parsing a json file to get the data. This app shows the recent seismic activities around US, its magnitude , location , date and time
+>>>>>>> e16956e1bbe722d31d31bdeb0ea505001f127156
